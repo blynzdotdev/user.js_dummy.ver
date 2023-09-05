@@ -1,6 +1,7 @@
 # user.js_dummy.ver
 Arkenfox's secure user.js, compiled, with a good override list. Brewed for use out of the box
 
+[the first release isnt out yet, this repo isnt functional just yet]
 
 Hi, i am Blynz.
 I make this repo, because i found the orginal very confusing and unfriendly for beginners.
