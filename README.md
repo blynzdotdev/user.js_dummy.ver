@@ -11,4 +11,9 @@ I just wrote a good user-overrides.js and a installation guide that is easier to
 
 Project is under MIT license, all rights owned by Arkenfox. (https://github.com/arkenfox)
 
-Check project wiki for the guide.
+My guide:
+https://github.com/blynzdotdev/user.js_dummy.ver/wiki
+https://github.com/blynzdotdev/user.js_dummy.ver/wiki
+https://github.com/blynzdotdev/user.js_dummy.ver/wiki
+
+or wiki button in the upper part of the screen
